@@ -1,5 +1,5 @@
 {
-  "name": "module-a",
+  "name": "module-a-liu",
   "version": "0.0.10",
   "description": "> TODO: description",
   "author": "liudi <326087376@qq.com>",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/liudi1991/lerna-demo/issues"
   },
-  "gitHead": "8631cd48e52c7f1bf04e9ef3513f67116e3a3d54"
+  "gitHead": "969e47003790cabf4f89ca8931f9af42d031e8ea"
 }
