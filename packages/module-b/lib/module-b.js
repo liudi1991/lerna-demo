@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = moduleB;
+module.exports = sayHello;
 
 
 function sayHello() {
