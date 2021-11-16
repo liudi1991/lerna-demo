@@ -1,6 +1,6 @@
 {
   "name": "module-a-liu",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "> TODO: description",
   "author": "liudi <326087376@qq.com>",
   "homepage": "https://github.com/liudi1991/lerna-demo#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/liudi1991/lerna-demo/issues"
   },
   "dependencies": {
-    "module-b-liu": "^0.0.13"
+    "module-b-liu": "^0.0.14"
   }
 }
