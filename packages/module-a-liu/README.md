@@ -1,11 +1,11 @@
-# `module-b`
+# `module-a-liu`
 
 > TODO: description
 
 ## Usage
 
 ```
-const moduleB = require('module-b');
+const moduleALiu = require('module-a-liu');
 
 // TODO: DEMONSTRATE API
 ```
